@@ -1,0 +1,10 @@
+C:\Users\DELL\Desktop\testGit\testGit\bin\Debug\testGit.exe.config
+C:\Users\DELL\Desktop\testGit\testGit\bin\Debug\testGit.exe
+C:\Users\DELL\Desktop\testGit\testGit\bin\Debug\testGit.pdb
+C:\Users\DELL\Desktop\testGit\testGit\obj\Debug\testGit.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\testGit\testGit\obj\Debug\testGit.Form1.resources
+C:\Users\DELL\Desktop\testGit\testGit\obj\Debug\testGit.Properties.Resources.resources
+C:\Users\DELL\Desktop\testGit\testGit\obj\Debug\testGit.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\testGit\testGit\obj\Debug\testGit.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\testGit\testGit\obj\Debug\testGit.exe
+C:\Users\DELL\Desktop\testGit\testGit\obj\Debug\testGit.pdb
