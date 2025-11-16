@@ -19,6 +19,7 @@ namespace testGit
 
         private void button1_Click(object sender, EventArgs e)
         {
+            //hada ra ghir test
             this.Close();
         }
     }
